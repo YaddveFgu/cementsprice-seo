@@ -10,7 +10,7 @@ This project is built to share the latest **cement price updates**, construction
 ## 🔗 Visit Our Website
 👉 [CementsPrice.com – Latest Cement Prices](https://cementsprice.com/)
 
-At **[CementsPrice](https://cementsprice.com/)** you can find:
+At **[CementsPrice]** you can find:
 - 🏗️ Daily cement price updates  
 - 📊 Cement market insights  
 - 📍 Regional cement rates in India, Pakistan & beyond  
@@ -22,19 +22,8 @@ At **[CementsPrice](https://cementsprice.com/)** you can find:
 We created this repository to:
 1. Provide **transparent cement market data**  
 2. Share updates for **builders, contractors, and homeowners**  
-3. Improve accessibility of construction pricing information  
-
----
-
-## 📈 SEO + Indexing
-This repository contains an official backlink to our website:  
-👉 **[CementsPrice](https://cementsprice.com/)**  
-
-GitHub is a trusted platform with **Domain Authority 99+**, which ensures:
-- ✅ Faster indexing in Google & Bing  
-- ✅ Higher backlink value  
-- ✅ More credibility for our website  
-
+3. Improve accessibility of construction pricing information
+   
 ---
 
 ## ⚡ How to Contribute
